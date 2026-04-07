@@ -87,7 +87,27 @@ https://raw.githubusercontent.com/enzomtpYT/InstantGamingGiveawayList/main/json.
 
 ## Avertissement
 
-⚠️ Désactiver le script après utilisation en restant sur la page d'instant-gaming, en allant en haut à droite du navigateur dans extensions/Violentmonkey et en déselectionnant "Instant-Gaming"
+⚠️ Avant d'utiliser le script, assurez-vous d'être connecté à votre compte Instant Gaming.
+
+Si le script s'est exécuté avant que vous soyez connecté :
+1. Désactivez le script.
+2. Connectez-vous normalement à votre compte Instant Gaming.
+3. Réactivez le script.
+4. Actualisez la page.
+
+⚠️ Après utilisation, il est recommandé de désactiver le script pour éviter qu'il s'exécute inutilement.
+
+Pour désactiver le script :
+1. Restez sur la page Instant Gaming.
+2. Cliquez sur l'icône des extensions en haut à droite du navigateur.
+3. Ouvrez Violentmonkey.
+4. Décochez le script "Instant-Gaming".
+
+Pour l'activer le script :
+1. Restez sur la page Instant Gaming.
+2. Cliquez sur l'icône des extensions en haut à droite du navigateur.
+3. Ouvrez Violentmonkey.
+4. Cochez le script "Instant-Gaming".
 
 ## Structure du projet
 
