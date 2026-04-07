@@ -103,7 +103,7 @@ Pour désactiver le script :
 3. Ouvrez Violentmonkey.
 4. Décochez le script "Instant-Gaming".
 
-Pour l'activer le script :
+Pour activer le script :
 1. Restez sur la page Instant Gaming.
 2. Cliquez sur l'icône des extensions en haut à droite du navigateur.
 3. Ouvrez Violentmonkey.
